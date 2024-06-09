@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/k15fb-mmo/ba-p/main/AE.Net.Mail.dll
+https://raw.githubusercontent.com/k15fb-mmo/ba-p/main/AutoUpdate.exe
