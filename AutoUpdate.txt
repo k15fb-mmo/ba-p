@@ -1,1 +1,1 @@
-https://public.dm.files.1drv.com/y4mQi-nX9IAK-eiyF9glN1cssz1-JnxjbfUUJ7gOSamtHoZbXmbKxRruylqDsgzgKPm8PCXkjx8DC7ktel8SS2_6hWRbV1rvUt6gqWg-86hMRSKYJ-QJdtaKv07Eo4bh7R-PMrLP0kDtQGeW0Ei_C0jswSTFnUwCNYK5Im2oWgBVGb9S4IAMMbuTDGil6kb1E1W1Crxmwd5bhvFFDzv5tRCp0szgeagcXlr5OcGmu6HD7k?AVOverride=1
+https://raw.githubusercontent.com/k15fb-mmo/ba-p/main/AE.Net.Mail.dll
